@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=hirotaka&height=120&fontSize=65&desc=19%20y.o.%20CS%20student%20%C2%B7%20scientific%20computing%20%26%20modeling&descSize=18&descAlignY=82&descColor=8b949e" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/hirotaka11" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@hirotaka11-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-  </a>
-</p>
+# `hirotaka`
+
+**19 y.o. CS student · scientific computing & modeling**
+
+[![Telegram](https://img.shields.io/badge/Telegram-@hirotaka11-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/hirotaka11)
+
+</div>
 
 ```bash
 $ neofetch --user hirotaka
