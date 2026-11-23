@@ -75,14 +75,6 @@ Projects : core-triads, opm-flom
 
 ---
 
-### 📈 Activity & Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShelomentsevYaroslav&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" width="85%" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <sub>hirotaka · 2026</sub>
 </p>
