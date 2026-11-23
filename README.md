@@ -75,6 +75,16 @@ Projects : core-triads, opm-flom
 
 ---
 
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShelomentsevYaroslav/ShelomentsevYaroslav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShelomentsevYaroslav/ShelomentsevYaroslav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ShelomentsevYaroslav/ShelomentsevYaroslav/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+---
+
 <p align="center">
   <sub>hirotaka · 2026</sub>
 </p>
